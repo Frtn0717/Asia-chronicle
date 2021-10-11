@@ -7,14 +7,14 @@
 }
 
 @font-face {
-  font-family: "Lato", sans-serif;
-  src: url("https://fonts.googleapis.com");
+  font-family: 'Lato', sans-serif;
+  src: url('https://fonts.googleapis.com');
 }
 
 body {
   width: 100vw;
   height: 100vh;
-  font-family: "Lato";
+  font-family: 'Lato';
   background: linear-gradient(to left, #d66c45, #d58131, #4a736a, #324756);
 }
 
@@ -52,7 +52,7 @@ body {
 
 .dropdown-result {
   width: 15vw;
-  min-height: 10vh;
+  min-height: 7vh;
   display: none;
   color: #302f2f;
   font-size: 1rem;
